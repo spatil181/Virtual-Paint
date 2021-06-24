@@ -101,7 +101,7 @@ You will require python to be installed with the open-cv python library in order
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - Shashank Patil - spatil181@gmail.com
 
 Project Link: [https://github.com/spatil181/Virtual-Paint.git](https://github.com/github_username/repo_name)
 
