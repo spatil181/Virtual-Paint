@@ -33,19 +33,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Virtual Paint</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    A project which detects the color of the marker you are holding through your webcam and allows you to paint with that particular color
   </p>
 </p>
 
