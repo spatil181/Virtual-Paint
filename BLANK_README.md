@@ -20,12 +20,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shashank-patil-911a76187/]
 
 
 
@@ -68,18 +63,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is a project which detects the color of the marker through your webcam and allows you to paint "virtually" with that particular color. First the color detection python script is used to obtain the HSV values of the colors which are to be detected. These values are then used by the virtual paint python script to detect the color from a livefeed from the webcam. Then the contours of the marker are detected to determine the tip of the marker to allow virtual painting.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Python]()
+
 
 
 
@@ -90,21 +81,18 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You will require python to be installed with the open-cv python library in order to be able to run the scripts.
+
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   https://github.com/spatil181/Virtual-Paint.git
    ```
-2. Install NPM packages
+2. Install OpenCV library
    ```sh
-   npm install
+   pip install opencv-python
    ```
 
 
@@ -115,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/spatil181/Virtual-Paint.git](https://github.com/github_username/repo_name)
 
 
 
